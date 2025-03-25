@@ -105,3 +105,15 @@ nav {
         display: inline-block;
     }
 }
+
+@media (min-width: 900px)
+{
+    body {
+        background-color: purple;
+    }
+    .card{
+        width: 25%;
+        vertical-align: top;
+        
+    }
+}
